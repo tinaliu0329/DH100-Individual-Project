@@ -17,3 +17,4 @@ What is happening in Bing-Cho Chan's methodology and what would happen if we rep
 This repository involves the text folder, two code files(jupyter notebook), a storyboard (with earlier versions), a poster and parsing results.
 
 Google Presentation: https://docs.google.com/presentation/d/1Gbs8qmm8zhcv79IjlB05XKh30cuR0E1XLhkYTnqpHpo/edit?usp=sharing
+Video Tutorial: https://drive.google.com/file/d/1RYEJFDemDvgaWo400J6N-CR8gKIOWiTv/view?usp=sharing
